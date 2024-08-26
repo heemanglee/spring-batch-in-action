@@ -21,7 +21,7 @@ spring:
       on-profile: mysql
   datasource:
     hikari:
-      jdbc-url: jdbc:mysql://localhost:3311/spring-batch-db
+      jdbc-url: jdbc:mysql://localhost:3312/spring-batch-db
       username: admin
       password: 1234
       driver-class-name: com.mysql.jdbc.Driver
