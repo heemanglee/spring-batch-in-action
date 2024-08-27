@@ -4,7 +4,7 @@ spring:
   # spring.batch.job.name을 사용하면 여러 개의 job 중에 특정 job만 실행할 수 있다.
   batch:
     job:
-      name: stepNextConditionalJob
+      name: deciderJob
 
 ---
 spring:
